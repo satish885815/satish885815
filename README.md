@@ -18,4 +18,6 @@
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/satish-kushawaha-38245a206/)
 - [Email](mailto:satishkushawaha89@gmail.com)
+- [LeetCode](https://leetcode.com/u/satish10081998/)
+- [GfG](https://www.geeksforgeeks.org/user/satishkushawaha89/?ref=header_profile)
 
