@@ -14,6 +14,6 @@
 
 
 ### 🔗 Connect with Me
-- [LinkedIn]([https://www.linkedin.com/in/satish-kushawaha-38245a206/](https://www.linkedin.com/in/satish-kushawaha-38245a206/))
+- [LinkedIn](https://www.linkedin.com/in/satish-kushawaha-38245a206/)
 - [Email](mailto:satishkushawaha89@gmail.com)
 
