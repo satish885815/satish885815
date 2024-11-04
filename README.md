@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Satish Kushwaha
 
-🔭 I’m currently working at ZopSmart as a Frontend Developer Role
+🔭 I’m currently working at ZopSmart
 
 ### 🚀 About Me
 - 💼 Frontend Developer
