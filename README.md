@@ -4,7 +4,7 @@
 
 ### 🚀 About Me
 - 💼 Frontend Developer
-- 🌱 Currently working on **React.js**, **Next.js**
+- 🌱 Currently working on **React.js**, **Next.js**,**CSS**,**JavaScript**
 
 
 ### 💻 Skills
